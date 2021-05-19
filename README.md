@@ -1,5 +1,6 @@
 # Recursive-NeRF: An Efficient and Dynamically Growing NeRF
 This is a Jittor implementation of Recursive-NeRF: An Efficient and Dynamically Growing NeRF.
+
 Paper link: 
 
 ## Abstract
